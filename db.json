@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gopas Updated 3",
+      "username": "Gopu",
+      "email": "gopas@gmail.com",
+      "phone": "8075817513",
+      "website": "ktu.net"
+    },
+    {
+      "name": "archana",
+      "email": "archana@gmail.com",
+      "phone": "123",
+      "id": 3
+    }
+  ]
+}
